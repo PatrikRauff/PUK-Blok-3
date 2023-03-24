@@ -1,0 +1,12 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}The setup}{3}{section.2}%
+\contentsline {section}{\numberline {3}Pricing in the different models:}{4}{section.3}%
+\contentsline {subsection}{\numberline {3.1}The OIS model}{4}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The Spread Model}{5}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Working with data}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Determining $\alpha _k$ and $\beta _k$ from data:}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Fitting initial EURIBOR Swap curve:}{8}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Analysing the affect of xIBOR to OIS}{10}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{17}{section.6}%
+\contentsline {section}{References}{18}{section.6}%
